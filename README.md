@@ -1,7 +1,3 @@
 # time-series-tutorial
 
-## Overview
-1. What are time series?
-2. Classical (statistical) models
-3. Backtesting
-4. Neural Network Models
+[https://colab.research.google.com/github/jjmossel/time-series-tutorial/blob/master/Tutorial01.ipynb](View on colab)
